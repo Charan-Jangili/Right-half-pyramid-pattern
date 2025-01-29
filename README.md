@@ -1,0 +1,1 @@
+# Right-half-pyramid-pattern
